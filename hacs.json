@@ -1,5 +1,5 @@
 {
-  "name": "Plejd",
-  "homeassistant": "2024.02.0",
-  "render_readme": true
+  "name": "Plejd-fork",
+  "homeassistant": "2024.06.1",
+  "render_readme": false
 }
